@@ -1,5 +1,5 @@
 # linux
-## ssh 免密码登录
+## 常用命令
 ![章节目录简介](http://www.denglm.com/images/backtotop.png)
 
 ### 1. 压缩或解压文件
